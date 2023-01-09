@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-github/education/static/css/main.b1664628.css",
+    "main.js": "/deploy-github/education/static/js/main.7d4b92e0.js",
+    "static/media/back.webp": "/deploy-github/education/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/deploy-github/education/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/deploy-github/education/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/deploy-github/education/index.html",
+    "main.b1664628.css.map": "/deploy-github/education/static/css/main.b1664628.css.map",
+    "main.7d4b92e0.js.map": "/deploy-github/education/static/js/main.7d4b92e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1664628.css",
+    "static/js/main.7d4b92e0.js"
+  ]
+}
