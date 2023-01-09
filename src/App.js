@@ -17,11 +17,15 @@ const App = () => {
             <Header />
             <Routes>
                <Route exact path="/education" element={<Home />} />
-               <Route exact path="/about" element={<About />} />
-               <Route exact path="/courses" element={<CourseHome />} />
-               <Route exact path="/team" element={<Team />} />
-               <Route exact path="/pricing" element={<Price />} />
-               <Route exact path="/journal" element={<Blog />} />
+               <Route exact path="/education/about" element={<About />} />
+               <Route
+                  exact
+                  path="/education/courses"
+                  element={<CourseHome />}
+               />
+               <Route exact path="/education/team" element={<Team />} />
+               <Route exact path="/education/pricing" element={<Price />} />
+               <Route exact path="/education/journal" element={<Blog />} />
                <Route exact path="/contact" element={<Contact />} />
             </Routes>
             <Footer />
